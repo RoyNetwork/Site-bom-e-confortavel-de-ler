@@ -1,0 +1,32 @@
+Body {
+    text-align:left;
+    background: black;
+    font-family: Comic Sans MS
+}
+
+p {
+    color:aquamarine;
+    background-color:black;
+    Font-family: Comic Sans MS;
+    font-size:larger;
+}
+
+h1 {
+    color:aqua;
+    background-color:black;
+    text-align: center;
+}
+
+paragrafo {
+    background-image: url("Quenn.jpg");
+    background-position: center bottom; /* posiciona a imagem no centro inferior do elemento */
+    background-size: cover; 
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    display: block; /* Faz a imagem se comportar como um elemento de bloco */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente dentro do elemento pai */
+}
+
